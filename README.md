@@ -10,6 +10,7 @@
               TabBar高度：yq_current_device.yq_tabBar_height()
               全面屏底部TabBar预留安全高度：yq_current_device.yq_tabBar_safe_height()
           ```
+         
      - b. 通过yq_current_device.yq_device_type()还能获得更多设备信息，比如宽、高、是否全面屏等
        ```
              是否为灵动岛：yq_current_device.yq_device_type().isDynamicIsland
