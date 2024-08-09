@@ -2,7 +2,7 @@
 
 主要功能：
   1. yq_current_device单例：当前设备信息
-    a. 提供方法获取设备TabBar、NavigationBar，以及全面屏状态下的安全高度，灵动岛高度等
+    - a. 提供方法获取设备TabBar、NavigationBar，以及全面屏状态下的安全高度，灵动岛高度等
               状态栏高度: yq_current_device.yq_statusBar_height()
               导航栏高度：yq_current_device.yq_navigationBar_height()
               导航条默认高度 + 状态栏高度：yq_current_device.yq_navigationBar_maxY()
