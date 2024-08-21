@@ -8,5 +8,5 @@ Pod::Spec.new do |spec|
   	spec.platform     = :ios, "13.0"
   	spec.source       = { :git => "https://github.com/JYYQLin/JYScreen.git", :tag => "#{spec.version}" }
   	spec.source_files  = "JYScreen/*.{h,m,swift}"
-	spec.swift_versions = = ['5.0', '5.1', '5.2']
+	spec.swift_versions = ['5.0', '5.1', '5.2']
 end
