@@ -120,12 +120,18 @@ extension UIDevice {
             (width: 393, height: 852, statusHeight_V: 53.6666666, navigationBarHeight_V: 44, statusHeight_H: 0, navigationBarHeight_H: 32, tabBarHeight_V: 83, tabBarHeight_H: 53, screenScale: 3, isFullScreen: true, isDynamicIsland: true, deviceName: "iPhone 15", modelName: ["iPhone15,4"], isPad: false),
             (width: 393, height: 852, statusHeight_V: 53.6666666, navigationBarHeight_V: 44, statusHeight_H: 0, navigationBarHeight_H: 32, tabBarHeight_V: 83, tabBarHeight_H: 53, screenScale: 3, isFullScreen: true, isDynamicIsland: true, deviceName: "iPhone 14 Pro", modelName: ["iPhone15,2"], isPad: false),
             (width: 393, height: 852, statusHeight_V: 53.6666666, navigationBarHeight_V: 44, statusHeight_H: 0, navigationBarHeight_H: 32, tabBarHeight_V: 83, tabBarHeight_H: 53, screenScale: 3, isFullScreen: true, isDynamicIsland: true, deviceName: "iPhone 15 Pro", modelName: ["iPhone16,1"], isPad: false),
+            (width: 393, height: 852, statusHeight_V: 53.6666666, navigationBarHeight_V: 44, statusHeight_H: 0, navigationBarHeight_H: 32, tabBarHeight_V: 83, tabBarHeight_H: 53, screenScale: 3, isFullScreen: true, isDynamicIsland: true, deviceName: "iPhone 16", modelName: ["iPhone17,1"], isPad: false),
             
             
             /**  .69寸全面屏设备 - 灵动岛设备 */
             (width: 430, height: 932, statusHeight_V: 53.6666666, navigationBarHeight_V: 44, statusHeight_H: 0, navigationBarHeight_H: 44, tabBarHeight_V: 83, tabBarHeight_H: 70, screenScale: 3, isFullScreen: true, isDynamicIsland: true, deviceName: "iPhone 14 Pro Max", modelName: ["iPhone15,3"], isPad: false),
             (width: 430, height: 932, statusHeight_V: 53.6666666, navigationBarHeight_V: 44, statusHeight_H: 0, navigationBarHeight_H: 44, tabBarHeight_V: 83, tabBarHeight_H: 70, screenScale: 3, isFullScreen: true, isDynamicIsland: true, deviceName: "iPhone 15 Plus", modelName: ["iPhone15,5"], isPad: false),
             (width: 430, height: 932, statusHeight_V: 53.6666666, navigationBarHeight_V: 44, statusHeight_H: 0, navigationBarHeight_H: 44, tabBarHeight_V: 83, tabBarHeight_H: 70, screenScale: 3, isFullScreen: true, isDynamicIsland: true, deviceName: "iPhone 15 Pro Max", modelName: ["iPhone16,2"], isPad: false),
+            (width: 430, height: 932, statusHeight_V: 53.6666666, navigationBarHeight_V: 44, statusHeight_H: 0, navigationBarHeight_H: 44, tabBarHeight_V: 83, tabBarHeight_H: 70, screenScale: 3, isFullScreen: true, isDynamicIsland: true, deviceName: "iPhone 16 Plus", modelName: ["iPhone17,2"], isPad: false),
+
+            /**  iPhone16 Pro系列 - 灵动岛设备 */
+            (width: 402, height: 874, statusHeight_V: 56.3333333, navigationBarHeight_V: 44, statusHeight_H: 0, navigationBarHeight_H: 44, tabBarHeight_V: 83, tabBarHeight_H: 53, screenScale: 3, isFullScreen: true, isDynamicIsland: true, deviceName: "iPhone 16 Pro", modelName: ["iPhone17,3"], isPad: false),
+            (width: 440, height: 956, statusHeight_V: 56.3333333, navigationBarHeight_V: 44, statusHeight_H: 0, navigationBarHeight_H: 44, tabBarHeight_V: 83, tabBarHeight_H: 70, screenScale: 3, isFullScreen: true, isDynamicIsland: true, deviceName: "iPhone 16 Pro Max", modelName: ["iPhone17,4"], isPad: false),
             
             
             
